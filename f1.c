@@ -1,6 +1,4 @@
-main()
-add{}
- fatata
-jkshhh
-uhfiuhif
- main
+void main()
+{
+ add a+b;
+}
